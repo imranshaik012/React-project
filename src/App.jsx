@@ -4,7 +4,7 @@ import './App.css'
 function Header(){
 return (
   <header>
- <h1>I am Imran Shaik </h1>  </header>
+ <h1>I am Imran Shaikh</h1>  </header>
 )
 
 }
